@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python Projects on Python Github Projects</title>
-    <link>http://example.org/</link>
+    <link>https://bdoellinger.github.io/</link>
     <description>Recent content in Python Projects on Python Github Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://bdoellinger.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: FEM solver with Neumann boundary conditions</title>
-      <link>http://example.org/posts/project-1-fem-solver-neumann-boundary/</link>
+      <link>https://bdoellinger.github.io/posts/project-1-fem-solver-neumann-boundary/</link>
       <pubDate>Mon, 01 Mar 2021 10:00:59 -0400</pubDate>
       
-      <guid>http://example.org/posts/project-1-fem-solver-neumann-boundary/</guid>
+      <guid>https://bdoellinger.github.io/posts/project-1-fem-solver-neumann-boundary/</guid>
       <description>libraries: numpy, pandas, matplotlib, mpl_toolkits, tkinter, PIL  Generally, solving partial differential equations (PDE&amp;rsquo;s) is one of the practically most relevant mathematical problems (e.g. fluid mechanics, heat and mass transfer, wave propagation and electromagnetic theory is model with PDE&amp;rsquo;s). However for non trivial examples there are usually only unfeasible formulas for a solution (if there is even a known formula for solutions or a solution at all). Hence, in practice we have to model our real life problem in a way that the problem has exactly one unique solution (i.</description>
     </item>
     
     <item>
       <title>Project 2: Mass Effect themed Space Invaders</title>
-      <link>http://example.org/posts/project-2-mass-effect-space-invaders/</link>
+      <link>https://bdoellinger.github.io/posts/project-2-mass-effect-space-invaders/</link>
       <pubDate>Mon, 01 Mar 2021 10:00:58 -0400</pubDate>
       
-      <guid>http://example.org/posts/project-2-mass-effect-space-invaders/</guid>
+      <guid>https://bdoellinger.github.io/posts/project-2-mass-effect-space-invaders/</guid>
       <description>libraries: pygame, random  This project is a recreation of the classic space invaders using the pygame module. The game is built utilizing classes and methods to model space ships and laser beams. The visual assets are made with images from the Mass Effect games.
   Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>Project 3: Cryptocurrencies</title>
-      <link>http://example.org/posts/project-3-cryptocurrencies/</link>
+      <link>https://bdoellinger.github.io/posts/project-3-cryptocurrencies/</link>
       <pubDate>Mon, 01 Mar 2021 10:00:57 -0400</pubDate>
       
-      <guid>http://example.org/posts/project-3-cryptocurrencies/</guid>
+      <guid>https://bdoellinger.github.io/posts/project-3-cryptocurrencies/</guid>
       <description>libraries: streamlit, PIL, pandas, base 64, matplotlib, BeautifulSoup, requests, json  Cryptocurrencies are currently on the rise. However due to their volatile nature the price can change by a large margin in a small amount of time.
 This project uses BeautifulSoup4 to scrap data for up to 100 cryptocurrencies from coinmarketcap.com. The data is then processed using pandas to display a data frame of relevant information (which can also be saved as an csv file).</description>
     </item>
     
     <item>
       <title>Project 4: Standard &amp; Poor´s 500 Stock Prices</title>
-      <link>http://example.org/posts/project-4-sp500-stockprice/</link>
+      <link>https://bdoellinger.github.io/posts/project-4-sp500-stockprice/</link>
       <pubDate>Mon, 01 Mar 2021 10:00:56 -0400</pubDate>
       
-      <guid>http://example.org/posts/project-4-sp500-stockprice/</guid>
+      <guid>https://bdoellinger.github.io/posts/project-4-sp500-stockprice/</guid>
       <description>libraries: streamlit, pandas, base 64, matplotlib, yfinance  This project uses pandas to scrap a list of the Standard and Poor&amp;rsquo;s 500 companies. The data frame can be sorted and filtered (and saved as a csv file). The user can specify a number of S&amp;amp;P 500 companies they are interested in, to get detailed year to date information on stock closing price and volume from yahoo finance (using the yfinance module).</description>
     </item>
     
     <item>
       <title>Project 5: Classic Iris Classification</title>
-      <link>http://example.org/posts/project-5-random-forest-iris-classification/</link>
+      <link>https://bdoellinger.github.io/posts/project-5-random-forest-iris-classification/</link>
       <pubDate>Mon, 01 Mar 2021 10:00:55 -0400</pubDate>
       
-      <guid>http://example.org/posts/project-5-random-forest-iris-classification/</guid>
+      <guid>https://bdoellinger.github.io/posts/project-5-random-forest-iris-classification/</guid>
       <description>libraries: streamlit, pandas, PIL, sklearn, pickle  A classic example for classification is the iris dataset. Given a iris flower with specific parameters: sepal length, sepal width, petal length and petal width, we want to determine to which category this specific iris flower belongs (Setosa, Versicolor or Virginica?). This problem can be approached by using the iris data set, containing data of already classified samples (columns: sepal length, sepal width, petal length, petal width, category).</description>
     </item>
     
     <item>
       <title>Project 6: Convolutional Neural Network Number Guesser</title>
-      <link>http://example.org/posts/project-6-convolutional-neural-network-number-guesser/</link>
+      <link>https://bdoellinger.github.io/posts/project-6-convolutional-neural-network-number-guesser/</link>
       <pubDate>Mon, 01 Mar 2021 10:00:54 -0400</pubDate>
       
-      <guid>http://example.org/posts/project-6-convolutional-neural-network-number-guesser/</guid>
+      <guid>https://bdoellinger.github.io/posts/project-6-convolutional-neural-network-number-guesser/</guid>
       <description>libraries: streamlit, streamlit_drawable_canvas, numpy, pandas, skimage, tensorflow    Link to GitHub Repository
 Run application directly with Streamlit</description>
     </item>
