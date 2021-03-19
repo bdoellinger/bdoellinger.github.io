@@ -40,7 +40,7 @@
 <meta itemprop="name" content="Project 6: Convolutional Neural Network Number Guesser">
 <meta itemprop="description" content="Use a simple convolutional neural network built with tensorflow to recognize handwritten digits."><meta itemprop="datePublished" content="2021-03-01T10:00:54-04:00" />
 <meta itemprop="dateModified" content="2021-03-01T10:00:54-04:00" />
-<meta itemprop="wordCount" content="16">
+<meta itemprop="wordCount" content="237">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Project 6: Convolutional Neural Network Number Guesser"/>
 <meta name="twitter:description" content="Use a simple convolutional neural network built with tensorflow to recognize handwritten digits."/>
@@ -180,12 +180,22 @@
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul>
 <li>libraries: streamlit, streamlit_drawable_canvas, numpy, pandas, skimage, tensorflow</li>
 </ul>
+<p>A typical problem in computer vision is the detection of objects in images.
+However the same object can be depicted at different angles/sizes and there is a wide range of variation for a particular object (e.g. cars have different colours or shapes).
+Creating a program by hand, that can determine what object is on an image, is very difficult and time consuming (and potentially the program is also not good enough).
+A more reasonable approach would be to utilize a neural network and determine parameters of the neural network with training data.</p>
+<p>This project aims to recognize handwritten numbers (however it is also possible to use the same approach to recognize other objects, depending on desired application).
+A convolutional neural network (CNN) has been created and trained before, using the MNIST dataset containing 70,000 images of handwritten digits from 0 to 9 and the tensorflow module.
+The CNN model is saved in another file (such that we only have to create and train the model once).
+The application&rsquo;s UI contains a drawable canvas, where the user can draw a number.
+Once satisfied with the drawing result, the user can request that the previously created model makes a computational inexpensive guess, on which number is most likely drawn.</p>
 <figure>
     <img src="https://bdoellinger.github.io/images/project_6_NN_number_guesser_gif.gif"/> 
 </figure>
 
-<p><a href="https://github.com/bdoellinger/">Link to GitHub Repository</a></p>
-<p><a href="https://share.streamlit.io/bdoellinger/06_cnn_number_guesser/main/neural_network_number_guesser.py">Run application directly with Streamlit</a></p>
+<p><a href="https://github.com/bdoellinger/06_CNN_number_guesser">Link to GitHub Repository</a></p>
+<p><a href="https://share.streamlit.io/bdoellinger/06_cnn_number_guesser/main/neural_network_number_guesser.py">Run application directly with Streamlit</a>
+(application may not be available, if resources are currently in use for other purposes)</p>
 <ul class="pa0">
   
 </ul>
