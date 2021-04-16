@@ -63,14 +63,5 @@ This project uses BeautifulSoup4 to scrap data for up to 100 cryptocurrencies fr
       <description>libraries: streamlit, streamlit_drawable_canvas, numpy, pandas, skimage, tensorflow  A typical problem in computer vision is the detection of objects in images. However the same object can be depicted at different angles/sizes and there is a wide range of variation for a particular object (e.g. cars have different colours or shapes). Creating a program by hand, that can determine what object is on an image, is very difficult and time consuming (and potentially the program is also not good enough).</description>
     </item>
     
-    <item>
-      <title>Project 7: Minecraft in Python</title>
-      <link>https://bdoellinger.github.io/posts/project-7-minecraft-ursina/</link>
-      <pubDate>Mon, 01 Mar 2021 10:00:53 -0400</pubDate>
-      
-      <guid>https://bdoellinger.github.io/posts/project-7-minecraft-ursina/</guid>
-      <description>libraries: ursina engine    Link to GitHub Repository</description>
-    </item>
-    
   </channel>
 </rss>

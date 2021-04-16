@@ -1,0 +1,13 @@
+---
+date: 2021-03-01T10:00:53-04:00
+description: "Use ursina engine to create a simple version of Minecraft in python."
+featured_image: "/images/project_7_minecraft_ursina.jpg"
+title: "Project 7: Minecraft in Python"
+---
+
+* libraries: ursina engine
+
+
+{{< figure src="/images/project_6_NN_number_guesser_gif.gif" >}}
+
+[Link to GitHub Repository](https://github.com/bdoellinger/06_CNN_number_guesser)
