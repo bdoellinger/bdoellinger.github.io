@@ -2,43 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bdoellinger.github.io/posts/project-7-cv-hand-tracking/</loc>
+    <lastmod>2021-10-01T10:00:07-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bdoellinger.github.io/</loc>
+    <lastmod>2021-10-01T10:00:07-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://bdoellinger.github.io/posts/</loc>
     <lastmod>2021-03-01T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://bdoellinger.github.io/</loc>
-    <lastmod>2021-03-01T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bdoellinger.github.io/posts/project-1-fem-solver-neumann-boundary/</loc>
-    <lastmod>2021-03-01T10:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bdoellinger.github.io/posts/project-2-mass-effect-space-invaders/</loc>
-    <lastmod>2021-03-01T10:00:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bdoellinger.github.io/posts/project-3-cryptocurrencies/</loc>
-    <lastmod>2021-03-01T10:00:57-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://bdoellinger.github.io/posts/project-4-sp500-stockprice/</loc>
-    <lastmod>2021-03-01T10:00:56-04:00</lastmod>
+    <loc>https://bdoellinger.github.io/posts/project-6-convolutional-neural-network-number-guesser/</loc>
+    <lastmod>2021-03-01T10:00:06-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://bdoellinger.github.io/posts/project-5-random-forest-iris-classification/</loc>
-    <lastmod>2021-03-01T10:00:55-04:00</lastmod>
+    <lastmod>2021-03-01T10:00:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://bdoellinger.github.io/posts/project-6-convolutional-neural-network-number-guesser/</loc>
-    <lastmod>2021-03-01T10:00:54-04:00</lastmod>
+    <loc>https://bdoellinger.github.io/posts/project-4-sp500-stockprice/</loc>
+    <lastmod>2021-03-01T10:00:04-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bdoellinger.github.io/posts/project-3-cryptocurrencies/</loc>
+    <lastmod>2021-03-01T10:00:03-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bdoellinger.github.io/posts/project-2-mass-effect-space-invaders/</loc>
+    <lastmod>2021-03-01T10:00:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://bdoellinger.github.io/posts/project-1-fem-solver-neumann-boundary/</loc>
+    <lastmod>2021-03-01T10:00:01-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
